@@ -7,5 +7,3 @@ The website provides a clear overview of what to learn and in what order, making
 ## Live Website
 https://shumailaasghar.github.io/final-project/
 
-## GitHub Repository
-https://github.com/ShumailaAsghar/final-project
